@@ -1,0 +1,8 @@
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\KeyboardPiano\KeyboardPiano\bin\Debug\KeyboardPiano.exe.config
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\KeyboardPiano\KeyboardPiano\bin\Debug\KeyboardPiano.exe
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\KeyboardPiano\KeyboardPiano\bin\Debug\KeyboardPiano.pdb
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\KeyboardPiano\KeyboardPiano\obj\Debug\KeyboardPiano.Form1.resources
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\KeyboardPiano\KeyboardPiano\obj\Debug\KeyboardPiano.Properties.Resources.resources
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\KeyboardPiano\KeyboardPiano\obj\Debug\KeyboardPiano.csproj.GenerateResource.Cache
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\KeyboardPiano\KeyboardPiano\obj\Debug\KeyboardPiano.exe
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\KeyboardPiano\KeyboardPiano\obj\Debug\KeyboardPiano.pdb
